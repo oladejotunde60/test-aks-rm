@@ -1,5 +1,5 @@
 trigger:
-- aks-terraform-tt
+- main
 
 pool:
   vmImage: ubuntu-latest
